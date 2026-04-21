@@ -2,7 +2,7 @@
 
 **Calico Garden** is a relaxing gardening simulation game built with **Java** and the **LibGDX** framework. Play as you nurture plants through various growth stages, interact with your cat companion **Ming**, and manage a growing garden economy.
 
-<img width="1179" height="658" alt="image" src="https://github.com/user-attachments/assets/a59474ae-133a-4e7b-ba00-0c4d16a566f0" />
+<img width="1179" height="658" alt="image" src="https://github.com/user-attachments/assets/a5fd382a-d123-4247-914f-f5ff33c5ee28" />
 
 ## Core Features
 - **Gardening Simulation**: Purchase seeds, monitor plant growth stages, and keep your garden healthy by watering them (Key: `W`).
